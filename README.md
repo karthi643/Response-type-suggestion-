@@ -1,5 +1,5 @@
-ML based - Response type suggestion based on question
-Approach 1: 
+# ML based - Response type suggestion based on question
+# Approach 1: 
 -Google gemini API integration 
 It is a Pay-as-you-go (prices in USD) model
 Details of payments for model subscription. 
